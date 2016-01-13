@@ -48,6 +48,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 ### Java template
+=======
+>>>>>>> 19ce50c9b95984077864b1da1ee51b8d066d32fe
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -60,6 +62,7 @@ crashlytics-build.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Eclipse template
 *.pydevproject
@@ -101,4 +104,3 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
-

@@ -1,4 +1,4 @@
-package com.juno.deepcache.core;
+package com.github.ssamba75.deepcache.core;
 
 import net.sf.ehcache.Cache;
 import net.sf.ehcache.Element;
